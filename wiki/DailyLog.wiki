@@ -1,0 +1,8 @@
+== 2009 Jul. 7 ==
+  * TBD
+    * Streaming traffic doesn't change with the simulation!!
+    * lte-model.doc Queue class has some problem.
+  * Correct problems
+    * Queue limit_ and average packet size in the ns-default.tcl are corrected!
+    * Block problem in the flow control is removed
+    * The code is zipped in backup.bar for easy download by browser.
