@@ -1,4 +1,13 @@
 #summary Record the problem solved and to be solved.
+
+== 2009 Jul. 7 ==
+  * TBD
+    * Send the paper for comments from the co-authors
+  * Correct problems
+    * The streaming traffic problem is caused by wrong defined default value of maximum packet number.
+    * lte-model.doc Queue class is updated
+    * the test results are got.
+
 == 2009 Jul. 7 ==
   * TBD
     * Streaming traffic doesn't change with the simulation!!
