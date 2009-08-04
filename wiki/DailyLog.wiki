@@ -1,6 +1,13 @@
 #summary Record the problem solved and to be solved.
 
-= 2009 July 29 HVQ (UE level) = 
+== 2009 Aug. 4 ==
+    * modified files: checkin checkout dlairqueue.cc dls1queue.cc
+    * dlairqueue.h
+     * check flowcontrol is not triggered 
+     * timer is not triggered
+     * bind the dnode_
+
+== 2009 July 29 HVQ (UE level) ==
   
    * int REDQueue::flow_control() 
      * if queue length < min, return -1; 
